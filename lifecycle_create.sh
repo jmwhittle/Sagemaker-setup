@@ -1,5 +1,5 @@
 # Clone my setup repo
-git clone 
+# git clone https://github.com/jmwhittle/Sagemaker-setup.git
 
 # Install VS Code Server
 cd /home/ec2-user/SageMaker

@@ -11,6 +11,10 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 echo 'export PATH="$HOME/.poetry/bin:$PATH"' >> ~/.bashrc
 echo 'export PATH="$HOME/.local/share:$PATH"' >> ~/.bashrc
 
+# Clone SM git repo
+# git clone https://github.com/jmwhittle/Sagemaker-setup.git
+
+
 # Set credential helper for 24 hours
-git config --global credential.helper cache
-git config --global credential.helper 'cache --timeout=86400'
+# git config --global credential.helper cache
+# git config --global credential.helper 'cache --timeout=86400'
